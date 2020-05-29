@@ -112,6 +112,44 @@
   font-size: 24px;
 }
 
+.testimonial figure img {
+  width: 60px;
+  margin: 20px 10px 10px;
+  opacity: 0.6;
+}
+
+.testimonial figure img.utama {
+  width: 90px;
+  opacity: 1;
+  margin-top: 5px;
+}
+
+.testimonial figure h5 {
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  color: #1c2c5d;
+}
+
+.testimonial figcaption span {
+  font-size: 12px;
+  color: #acacac;
+  margin-top: -5px !important;
+}
+
+.testimonial figcaption {
+  text-align: center;
+}
+
+.footer {
+  margin-top: 100px;
+}
+
+.footer p {
+  color: #acacac;
+  font-size: 18px;
+}
+
 /* todo utility */
 .tombol {
   text-transform: uppercase;
